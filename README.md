@@ -1,17 +1,14 @@
 ![Logo](admin/awekas-weather-connector.png)
 
-# ioBroker.awekas-weather-connector
+# ioBroker.awekas.connector
 
-[![NPM version](https://img.shields.io/npm/v/iobroker.awekas-weather-connector.svg)](https://www.npmjs.com/package/iobroker.awekas-weather-connector)
-[![Downloads](https://img.shields.io/npm/dm/iobroker.awekas-weather-connector.svg)](https://www.npmjs.com/package/iobroker.awekas-weather-connector)
-![Number of Installations](https://iobroker.live/badges/awekas-weather-connector-installed.svg)
-![Current version in stable repository](https://iobroker.live/badges/awekas-weather-connector-stable.svg)
+![Current version in stable repository] 0.0.2
 
 [![NPM](https://nodei.co/npm/iobroker.awekas-weather-connector.png?downloads=true)](https://nodei.co/npm/iobroker.awekas-weather-connector/)
 
 **Tests:** ![Test and Release](https://github.com/awekas/ioBroker.awekas-weather-connector/workflows/Test%20and%20Release/badge.svg)
 
-## awekas-weather-connector adapter for ioBroker
+## awekas.connector adapter for ioBroker
 
 fetch weather data from your AWEKAS weather station
 
@@ -39,7 +36,7 @@ install the adapter at your ioBroker. Get your API ky from https://my.awekas.at 
 
 MIT License
 
-Copyright (c) 2023 awekas <mail@awekas.at>
+Copyright (c) 2023 AWEKAS GmbH <mail@awekas.at> https://www.awekas.at
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

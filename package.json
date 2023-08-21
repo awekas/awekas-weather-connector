@@ -1,9 +1,9 @@
 {
-  "name": "iobroker.awekas-weather-connector",
-  "version": "0.0.1",
+  "name": "iobroker.awekas.connector",
+  "version": "0.0.2",
   "description": "fetch weather data from your AWEKAS weather station",
   "author": {
-    "name": "awekas",
+    "name": "AWEKAS GmbH",
     "email": "mail@awekas.at"
   },
   "homepage": "https://github.com/awekas/ioBroker.awekas-weather-connector",
