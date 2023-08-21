@@ -8,6 +8,12 @@
       "help": "AWEKAS API Token/Key from AWEKAS user settings",
       "sm": 12,
       "md": 9
+    },
+    "_help": {
+      "newLine": true,
+      "type": "staticText",
+      "text": "api_help",
+      "sm": 12
     }
   }
 }

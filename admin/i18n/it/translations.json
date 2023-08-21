@@ -1,5 +1,5 @@
 {
-	"awekas-weather-connector adapter settings": "Impostazioni dell'adattatore per awekas-weather-connector",
-	"option1": "opzione 1",
-	"option2": "opzione 2"
+    "adapter settings": "Impostazioni adattatori per collettore dati AWEKAS",
+    "apiKey": "AWEKAS chiave API",
+    "keyHelp": "Utilizzare il Token/Key API AWEKAS dalle impostazioni utente AWEKAS. È possibile ottenere da https://my.awekas.at"
 }

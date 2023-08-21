@@ -1,5 +1,5 @@
 {
-	"awekas-weather-connector adapter settings": "awekas-weather-connector的适配器设置",
-	"option1": "选项1",
-	"option2": "选项2"
+    "adapter settings": "A. 非洲KAS数据收集机构的数据范围",
+    "apiKey": "AWEKASAPI的关键",
+    "keyHelp": "AWEKAS API Token/Key从AKAS用户环境中使用。 你可以从http://my.awekas.at查阅。"
 }
