@@ -1,8 +1,8 @@
 {
   "cli": true,
   "target": "directory",
-  "adapterName": "awekas.weather.connector",
-  "title": "AWEKAS weather connector",
+  "adapterName": "awekas.connector",
+  "title": "AWEKAS weatherstation connector",
   "description": "fetch weather data from your AWEKAS weather station",
   "keywords": ["awekas", "weather", "weather data", "weather station"],
   "expert": "no",

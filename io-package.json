@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "awekas.connector",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "news": {
       "0.0.1": {
         "en": "initial release",
@@ -51,8 +51,8 @@
     "main": "main.js",
     "icon": "awekas-weather-connector.png",
     "enabled": true,
-    "extIcon": "https://raw.githubusercontent.com/awekas/ioBroker.awekas-weather-connector/main/admin/awekas-weather-connector.png",
-    "readme": "https://github.com/awekas/ioBroker.awekas-weather-connector/blob/main/README.md",
+    "extIcon": "https://raw.githubusercontent.com/awekas/ioBroker.awekas.connector/main/admin/awekas-weather-connector.png",
+    "readme": "https://github.com/awekas/ioBroker.awekas.connector/blob/main/README.md",
     "loglevel": "info",
     "mode": "daemon",
     "type": "weather",
