@@ -2,7 +2,7 @@
 
 # ioBroker.awekas.connector
 
-![Current version in stable repository] 0.0.4
+0.0.4
 
 [![NPM](https://nodei.co/npm/iobroker.awekas-connector.png?downloads=true)](https://nodei.co/npm/iobroker.awekas-connector/)
 
@@ -23,14 +23,11 @@ install the adapter at your ioBroker. Get your API ky from https://my.awekas.at 
 
 ## Changelog
 
-<!--
-	Placeholder for the next version (at the beginning of the line):
-	### **WORK IN PROGRESS**
--->
+### 0.0.4 (2.9.2023)
 
-0.0.4 change adapter name
-changed to async object write
-changed main structure
+- change adapter name
+- changed to async object write
+- changed main structure
 
 ### **WORK IN PROGRESS**
 

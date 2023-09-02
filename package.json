@@ -1,5 +1,5 @@
 {
-  "name": "iobroker.awekas.connector",
+  "name": "iobroker.awekas-connector",
   "version": "0.0.4",
   "description": "fetch weather data from your AWEKAS weather station",
   "author": {
