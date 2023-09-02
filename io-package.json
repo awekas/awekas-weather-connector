@@ -3,7 +3,7 @@
     "name": "awekas-connector",
     "version": "0.0.4",
     "news": {
-      "0.0.1": {
+      "0.0.4": {
         "en": "initial release",
         "de": "Erstveröffentlichung",
         "ru": "Начальная версия",
@@ -20,7 +20,7 @@
     "title": "AWEKAS weather connector",
     "titleLang": {
       "en": "AWEKAS weather connector",
-      "de": "AWEKAS Wetterstecker",
+      "de": "AWEKAS Datenadapter",
       "ru": "погодный разъем AWEKAS",
       "pt": "Conector meteorológico AWEKAS",
       "nl": "AWEKAS weerconnector",
