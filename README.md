@@ -2,11 +2,11 @@
 
 # ioBroker.awekas.connector
 
-![Current version in stable repository] 0.0.2
+![Current version in stable repository] 0.0.4
 
-[![NPM](https://nodei.co/npm/iobroker.awekas-weather-connector.png?downloads=true)](https://nodei.co/npm/iobroker.awekas-weather-connector/)
+[![NPM](https://nodei.co/npm/iobroker.awekas-connector.png?downloads=true)](https://nodei.co/npm/iobroker.awekas-connector/)
 
-**Tests:** ![Test and Release](https://github.com/awekas/ioBroker.awekas-weather-connector/workflows/Test%20and%20Release/badge.svg)
+**Tests:** ![Test and Release](https://github.com/awekas/ioBroker.awekas-connector/workflows/Test%20and%20Release/badge.svg)
 
 ## awekas.connector adapter for ioBroker
 
@@ -27,6 +27,10 @@ install the adapter at your ioBroker. Get your API ky from https://my.awekas.at 
 	Placeholder for the next version (at the beginning of the line):
 	### **WORK IN PROGRESS**
 -->
+
+0.0.4 change adapter name
+changed to async object write
+changed main structure
 
 ### **WORK IN PROGRESS**
 
