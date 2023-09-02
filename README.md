@@ -1,6 +1,6 @@
 ![Logo](admin/awekas-weather-connector.png)
 
-# ioBroker.awekas.connector
+# ioBroker.awekas-connector
 
 0.0.4
 
@@ -8,7 +8,7 @@
 
 **Tests:** ![Test and Release](https://github.com/awekas/ioBroker.awekas-connector/workflows/Test%20and%20Release/badge.svg)
 
-## awekas.connector adapter for ioBroker
+## awekas-connector adapter for ioBroker
 
 fetch weather data from your AWEKAS weather station
 
